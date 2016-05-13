@@ -1,2 +1,8 @@
 # hello-world
-just a test for github
+
+#include <stdio.h>
+
+void main()
+{
+  print("github test");
+}
